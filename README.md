@@ -1,6 +1,6 @@
 # AppsSchemaValidation
 
-Apply an schema to arbitraty js.
+Apply a schema to any arbitraty js variable/object.
 Just copy the [AppsSchemaValidation.js](AppsSchemaValidation.js) file into your project to get started.
 
 ## Using the library
