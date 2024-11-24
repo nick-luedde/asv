@@ -66,6 +66,3 @@ function validation() {
 
 }
 ```
-
-
-For more examples, [check out Examples.ts](src/Examples.ts)
